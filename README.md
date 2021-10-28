@@ -11,3 +11,5 @@ Selenium Web Otomasyon-
 karşılaştırılır.
 - Adet arttırılarak ürün adedinin 2 olduğu doğrulanır.
 - Ürün sepetten silinerek sepetin boş olduğu kontrol edilir.
+
+NOT: chromedriver.exe dosyası Driver klasörünün içerisindedir.
